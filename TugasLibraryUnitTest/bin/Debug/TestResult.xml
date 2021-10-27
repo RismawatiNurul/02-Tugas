@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-10-27" time="20:53:32">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\tools-testing" machine-name="USER" user="user" user-domain="USER" />
+  <culture-info current-culture="id-ID" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\AMIKOM\SEMESTER 3\PEMROG LANJUT\P5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll" executed="True" result="Success" success="True" time="0.392" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TugasLibraryUnitTest" executed="True" result="Success" success="True" time="0.364" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="DayTest" executed="True" result="Success" success="True" time="0.297" asserts="0">
+            <results>
+              <test-case name="TugasLibraryUnitTest.DayTest.NameOfDayTest" executed="True" result="Success" success="True" time="0.268" asserts="8" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="UserTest" executed="True" result="Success" success="True" time="0.010" asserts="0">
+            <results>
+              <test-case name="TugasLibraryUnitTest.UserTest.TestValidUser" executed="True" result="Success" success="True" time="0.005" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
